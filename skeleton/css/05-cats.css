@@ -1,0 +1,31 @@
+/* PHASE 5: Cats */
+.content-header {
+  background: url("/Users/appacademy/Desktop/W5D5/skeleton/images/cats.jpg");
+  background-size: cover;
+  height: 200px;
+  position: relative;
+  width: 100%;
+}
+
+.content-header h1 {
+  position: absolute;
+  color: white;
+  display: block;
+  left: 240px;
+  bottom: 20px;
+  font-size: 36px;
+  text-shadow: 0 0 10px black;
+  line-height: 1;
+  font-weight: 300;
+}
+
+.content-header button {
+  right: 20px;
+  bottom: 20px;
+  position: absolute;
+  padding: 10px 20px;
+  background: white;
+  border: 1px solid black;
+  border-radius: 5px;
+  font-weight: bold;
+}
